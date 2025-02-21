@@ -37,6 +37,6 @@ Feel free to reach out to me on:
 
 ## Fun Fact
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Than&show_icons=true&theme=radical)
 
 I love coding and solving problems! 🚀
