@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Than
 
-![My Photo](https://i.imgur.com/RLNleX5.jpeg){: style="border-radius: 50%; width: 150px; height: 150px;" }
+![My Photo](https://i.imgur.com/RLNleX5.jpeg)
 
 ## About Me
 
