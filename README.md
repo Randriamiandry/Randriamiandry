@@ -39,6 +39,17 @@ Feel free to reach out to me on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Than&show_icons=true&theme=radical)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="f1" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+  </defs>
+  <text x="10" y="40" font-family="Arial" font-size="40" fill="blue" filter="url(#f1)">
+    ThanDev
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite" />
+  </text>
+</svg>
 
 I love coding and solving problems! 🚀
