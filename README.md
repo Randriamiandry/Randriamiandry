@@ -39,6 +39,6 @@ Feel free to reach out to me on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Than&show_icons=true&theme=radical)
 
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/Than/your-repo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 I love coding and solving problems! 🚀
