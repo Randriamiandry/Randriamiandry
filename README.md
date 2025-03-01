@@ -2,27 +2,27 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Java+Apps+Creator;Chatbot+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Frontend+Wizard;Java+Developer;Chatbot+Creator" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/RLNleX5.jpeg" width="200" height="200" style="border-radius:50%;box-shadow:0 0 20px #22d3e6;transition:transform 0.3s;" onmouseover="this.style.transform='rotate(5deg)'" onmouseout="this.style.transform='rotate(0deg)'">
+  <img src="https://i.imgur.com/RLNleX5.jpeg" width="200" height="200" style="border-radius:50%;box-shadow:0 0 20px #22d3e6;transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
   
-| **Web Magic** 🌐 | **App Alchemy** 📱 | **Bot Genius** 🤖 |
-|------------------|--------------------|-------------------|
-| Crafting dynamic experiences with HTML/CSS/JS | Building Java-powered applications | Creator of ThanBOT (Facebook's favorite chatbot) |
+| **Web Artistry** 🌐 | **Java Mastery** ☕ | **Bot Innovation** 🤖 |
+|---------------------|---------------------|-----------------------|
+| Crafting magic with HTML/CSS/JS | Building robust Java applications | Creator of ThanBOT (Facebook's favorite AI companion) |
 
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000&color=22D3E6">
@@ -36,11 +36,11 @@
 
 ---
 
-## 🤖 ThanBOT Showcase
+## 🤖 ThanBOT Spotlight
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Meet_My_Creation-FF0000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
+    <img src="https://img.shields.io/badge/Try_ThanBOT-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
   </a>
 </div>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/Mgasy.mg">
-    <img src="https://img.shields.io/badge/Chat_with_ThanBOT-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
+    <img src="https://img.shields.io/badge/Chat_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 ## 🎮 Fun Fact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=ThanBOT+has+answered+1000%2B+questions!;Code+by+day%2C+debug+by+night;Java+enthusiast+since+2019;Always+experimenting+with+new+ideas" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=ThanBOT+knows+100%25+of+your+secrets!;Code+first%2C+ask+questions+later;Java>PHP+any+day+😉;No+PHP+zone+🚫" alt="Typing SVG">
 </div>
 
-![Code Animation](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![Code Flow](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
