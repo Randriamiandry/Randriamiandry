@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+App+Expert;Chatbot+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Java+Apps+Creator;Chatbot+Innovator" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,28 +14,35 @@
 
 <div align="center">
   
-| **Web Wizardry** 🌐 | **Mobile Mastery** 📱 | **Bot Crafting** 🤖 |
-|---------------------|-----------------------|----------------------|
-| Interactive websites that captivate | Cross-platform apps that shine | Intelligent chatbots that engage |
+| **Web Magic** 🌐 | **App Alchemy** 📱 | **Bot Genius** 🤖 |
+|------------------|--------------------|-------------------|
+| Crafting dynamic experiences with HTML/CSS/JS | Building Java-powered applications | Creator of ThanBOT (Facebook's favorite chatbot) |
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
-### **Core Skills**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000&color=22D3E6">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000&color=22D3E6">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=22D3E6">
   <br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=22D3E6">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000&color=22D3E6">
-  <br>
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=000&color=22D3E6">
-  <img src="https://img.shields.io/badge/Bot_Framework-5D2C86?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000&color=22D3E6">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000&color=22D3E6">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000&color=22D3E6">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=000&color=22D3E6">
 </p>
+
+---
+
+## 🤖 ThanBOT Showcase
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Meet_My_Creation-FF0000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
+  </a>
+</div>
 
 ---
 
@@ -44,7 +51,7 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Than&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+
 </div>
 
 <div align="center">
@@ -58,7 +65,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/Mgasy.mg">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
+    <img src="https://img.shields.io/badge/Chat_with_ThanBOT-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000&color=22D3E6">
   </a>
 </p>
 
@@ -71,7 +78,7 @@
 ## 🎮 Fun Fact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2018;Professional+problem+solver;100%25+bug+free...+just+kidding!;When+in+doubt%2C+console.log+it+out" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=ThanBOT+has+answered+1000%2B+questions!;Code+by+day%2C+debug+by+night;Java+enthusiast+since+2019;Always+experimenting+with+new+ideas" alt="Typing SVG">
 </div>
 
-![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![Code Animation](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
