@@ -56,8 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Than&show_icons=true&theme=react&border_radius=10&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Than&layout=compact&theme=react&border_radius=10">
-</div>
+  </div>
 
 ---
 
@@ -78,7 +77,7 @@
 ## 🎮 Fun Fact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=ThanBOT+knows+100%25+of+your+secrets!;Code+first%2C+ask+questions+later;Java>PHP+any+day+😉;No+PHP+zone+🚫" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=ThanBOT+knows+100%25+of+your+secrets!;Code+first%2C+ask+questions+later;Java>HTML+any+day+😉;No+HTML+zone+🚫" alt="Typing SVG">
 </div>
 
 ![Code Flow](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
